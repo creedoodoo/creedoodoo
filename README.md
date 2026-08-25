@@ -9,5 +9,9 @@
 <h3>📊 GitHub Stats</h3><br>
 
 <h3>🌐 Connect With Me</h3>
-<p align="left"> <a href="https://www.tiktok.com/@creedoodoo" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> <a href="https://www.instagram.com/notjustgelo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.facebook.com/angelo.castroverde.19" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/angelo-castroverde-b40a75317/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:angelocastroverde19@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"><i>Thanks for stopping by! 🚀</i></p>
+<p align="left"> <a href="https://www.tiktok.com/@creedoodoo" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a>
+  <a href="https://www.instagram.com/notjustgelo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+  <a href="https://www.facebook.com/angelo.castroverde.19" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/angelo-castroverde-b40a75317/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="mailto:angelocastroverde19@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<h2 align="center"><i>Thanks for stopping by! 🚀</i></h2>
