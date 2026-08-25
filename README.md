@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Angelo 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+PUP;Gym+Rat+%F0%9F%8F%8B%EF%B8%8F;Badminton+Player+%F0%9F%8F%B8;Photography+%2F+Videography+%2F+Editor" alt="Typing SVG" /> </p>
+<h1 align="center">Hi there, I'm Angelo 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+PUP;Gym+Rat+%F0%9F%8F%8B%EF%B8%8F;Badminton+Player+%F0%9F%8F%B8;Multimedia" alt="Typing SVG" /> </p>
 <h3>🧑‍💻 ABOUT ME</h3>
 <p>Junior BSIT student at the Polytechnic University of the Philippines</p>
 <p>Gym Rat | Badminton player | Multimedia</p>
